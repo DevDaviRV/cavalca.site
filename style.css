@@ -535,7 +535,7 @@ main:hover {
 
 }
 
-@media screen and (max-width : 600px) {
+@media screen and (max-width : 900px) {
 
    
     img {
@@ -746,5 +746,10 @@ main:hover {
     .for-arrow {
         z-index: 1;
         margin: auto;
+    }
+
+    .tabela-service {
+        display: flex;
+        gap: 5vw;
     }
 }
