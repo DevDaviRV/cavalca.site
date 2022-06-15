@@ -551,7 +551,18 @@ main:hover {
 
 @media screen and (max-width : 1000px) {
 
-    
+    .preload {
+       z-index: 999;
+       width: 100%;
+       height: 100%;
+       background-color: #000000;
+    }
+    .preload>img {
+        width: 200px;
+        height: 160px;
+        justify-content: center;
+        align-items: center;
+    }
        
     img {
         width: 80%;
