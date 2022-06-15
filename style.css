@@ -684,7 +684,7 @@ main:hover {
 
     .painel-sobre {
         margin-top: 7vw;
-        height: 32vw;
+        height: 34vw;
     }
 
     .sobre>h3 {
@@ -697,12 +697,12 @@ main:hover {
     }
 
     .anima {
-        width: 220px;
-        height: 180px;
+        width: 210px;
+        height: 170px;
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: 8vw;
+        margin-top: 12vw;
         margin-bottom: 6vw;
     }
 
